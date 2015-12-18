@@ -1,0 +1,7 @@
+language: objective-c
+osx_image: xcode6.4
+xcode_project: Jumblify.xcodeprojj 
+xcode_scheme: Jumblify 
+xcode_sdk: iphonesimulator8.4
+
+
